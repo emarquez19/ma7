@@ -33,7 +33,8 @@
           "property_estimate_message":"La casa est\u00e1 un 8.29% mas barata en relaci\u00f3n a otras casas similares dentro de la misma zona.",
           "property_estimate_description":"estimado-abajo.png",
           "styleclass":"marker-label-class"
-       }{
+       },
+       {
         "id":"ba3c",
         "property_id":"5c0c7dbe5c274b6123f8d109780535",
         "lat":20.6596593,
