@@ -1,5 +1,4 @@
 {
-   "error":0,
    "properties":[
       {
          "id":"42df",
@@ -25,29 +24,6 @@
             "https://s3.amazonaws.com/mikata-images/small/1544540830445c0fcfd1f72acb1ee137b422.jpg",
             "https://s3.amazonaws.com/mikata-images/small/1544540834185c0fcfd1f72acb1ee137b422.jpg",
             "https://s3.amazonaws.com/mikata-images/small/154454083765c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540841325c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/154454084525c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540848695c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/154454085165c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/154454085545c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540859485c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540863095c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540866295c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540869335c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540872595c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540876115c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540879855c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/154454088315c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540886545c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540890535c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540893535c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540898095c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540901415c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/154454090455c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540908575c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540912775c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540917385c0fcfd1f72acb1ee137b422.jpg",
-            "https://s3.amazonaws.com/mikata-images/small/1544540921115c0fcfd1f72acb1ee137b422.jpg",
             "https://s3.amazonaws.com/mikata-images/small/1544540924265c0fcfd1f72acb1ee137b422.jpg"
          ],
          "files_big":[
@@ -58,13 +34,5 @@
          "property_estimate_description":"estimado-abajo.png",
          "styleclass":"marker-label-class"
       }
-   ],
-   "pages":29,
-   "center":{
-      "lat":20.6563143,
-      "lng":-103.3451847
-   },
-   "total_properties":572,
-   "start":1,
-   "end":20
+   ]
 }
