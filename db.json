@@ -128,38 +128,6 @@
         "property_estimate_message":"La casa est\u00e1 un 9.1% mas barata en relaci\u00f3n a otras casas similares dentro de la misma zona.",
         "property_estimate_description":"estimado-abajo.png",
         "styleclass":"marker-label-class"
-     },
-     {
-        "id":"53da",
-        "property_id":"5c0c4ba75c274b6123f8d074780535",
-        "lat":20.6876681,
-        "lng":-103.2901799,
-        "exact":0,
-        "mtcons":240,
-        "mtterr":316,
-        "type":"Casa",
-        "offer":"Venta",
-        "status":"",
-        "status_cart":null,
-        "title":"Casa de 3 cuartos en Balcones de Oblatos",
-        "subtitle":"Av. Circunvalaci\u00f3n Oblatos 3090, Balcones de Oblatos, 44720 Guadalajara, Jal., Mexico",
-        "description":"Hermosa casa estilo mexicano, una planta, 3 rec\u00e1maras, e ba\u00f1os complet...",
-        "price":"2,400,000",
-        "bedrooms":3,
-        "bathrooms":3,
-        "files":[
-           "https://s3.amazonaws.com/mikata-images/small/1544408140665c0c4ba75c274b6123f8d074.jpg",
-           "https://s3.amazonaws.com/mikata-images/small/154440814545c0c4ba75c274b6123f8d074.jpg",
-           "https://s3.amazonaws.com/mikata-images/small/1544408148495c0c4ba75c274b6123f8d074.jpg",
-           "https://s3.amazonaws.com/mikata-images/small/154440821325c0c4ba75c274b6123f8d074.jpg"
-        ],
-        "files_big":[
-
-        ],
-        "property_estimate_value":"8.52",
-        "property_estimate_message":"La casa est\u00e1 un 8.52% mas cara en relaci\u00f3n a otras casas similares dentro de la misma zona.",
-        "property_estimate_description":"estimado-arriba.png",
-        "styleclass":"marker-label-class"
      }
     ]
  }
